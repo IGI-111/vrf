@@ -8,7 +8,7 @@
 To get started simply add it to your contract:
 
 ```
-forc add vrf@0.1.1
+forc add vrf@0.1.2
 ```
 
 and call it like so:
