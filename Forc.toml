@@ -1,8 +1,9 @@
 [project]
 authors = ["igi-111"]
+description = "A simple VRF library for Sway"
 entry = "lib.sw"
-license = "Apache-2.0"
+license = "MIT"
 name = "vrf"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
